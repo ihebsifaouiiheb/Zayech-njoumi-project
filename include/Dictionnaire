@@ -1,0 +1,17 @@
+#ifndef DICTIONNAIRE_
+#define DICTIONNAIRE_
+//#include "deco.h"
+
+public class Dictionnaire
+{
+    public:
+        char nom;
+        struct BTnode *rootNode;
+        Dictionnaire(nom);
+        virtual ~Dictionnaire();
+    protected:
+
+    private:
+};
+
+#endif // DICTIONNAIRE_

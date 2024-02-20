@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1643876364 source:/home/iheb/Desktop/workspace/c++/projet_zied_njoumi/main.c
+	<stdio.h>
+	<stdlib.h>
+	"deco.h"
+	"dictionnaire_functions.h"
+
+1643784858 /home/iheb/Desktop/workspace/c++/projet_zied_njoumi/deco.h
+
+1643869530 /home/iheb/Desktop/workspace/c++/projet_zied_njoumi/dictionnaire_functions.h
+

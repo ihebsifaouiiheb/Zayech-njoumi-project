@@ -1,0 +1,11 @@
+#include "wa."
+
+wa::wa()
+{
+    //ctor
+}
+
+wa::~wa()
+{
+    //dtor
+}

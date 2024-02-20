@@ -1,0 +1,12 @@
+#include "Dictionnaire."
+#include "deco.h"
+Dictionnaire::Dictionnaire(nom_mot)
+{
+    nom=nom_mot;
+    rootNode= arbreConsVide();
+}
+
+Dictionnaire::~Dictionnaire()
+{
+    //dtor
+}

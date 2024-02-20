@@ -1,0 +1,16 @@
+#ifndef WA_
+#define WA_
+
+
+class wa
+{
+    public:
+        wa();
+        virtual ~wa();
+
+    protected:
+
+    private:
+};
+
+#endif // WA_
